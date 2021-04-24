@@ -11,3 +11,8 @@ To help process this data, I created machine learning models capable of classify
 * Compare two or more models
 
 ## Tools Used
+* Preprocess the raw data
+* Tune the models
+* Compare two or more models
+
+## Conclusion
